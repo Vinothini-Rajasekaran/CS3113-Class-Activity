@@ -19,7 +19,11 @@ The skeleton for the code is available in structure.c.
 After you are done do the tasks below:
 
 git add structure.c
+
 git commit -m "My finished code your name here"
+
 git push origin master
+
 git tag v1.0
+
 git push origin master
